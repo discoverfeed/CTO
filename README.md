@@ -37,8 +37,6 @@ A categorized of current MCC Project MTL manages
 
 
 20240716
-以下は、`DiscoverFeed Metaverse` のREADMEファイルの英語版です。
-
 ---
 
 # DiscoverFeed Metaverse
