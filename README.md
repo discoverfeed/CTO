@@ -45,7 +45,7 @@ DiscoverFeed Metaverse is a repository dedicated to managing projects focused on
 
 ## Contents
 
-### DiscoverFeed
+### [DiscoverFeed](https://github.com/discoverfeed/DF)
 - **API**: API-related code for the DiscoverFeed Metaverse project
 - **Socket**: Code related to socket communication in the metaverse
 - **Landing Page (FE)**: Frontend landing page for the metaverse
