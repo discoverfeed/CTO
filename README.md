@@ -33,14 +33,11 @@ A categorized of current MCC Project MTL manages
     - [FE_User](#FE-User)
 # Shader
 
-## Collection
+## MCC
 
-- [SkyboxPlus](https://github.com/keijiro/SkyboxPlus) - Basic skybox extensions
-- [SIGExam](https://github.com/leon196/SIGExam) - Correction of a Shader Exam
-- [ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders
-- [Shaders](https://github.com/ewersp/Shaders) - A collection of shaders written in CG/ShaderLab
-- [Cubeds-Unity-Shaders](https://github.com/cubedparadox/Cubeds-Unity-Shaders) - A compilation of custom shaders
-- [UnityEffects](https://github.com/vivekhnz/UnityEffects) - A collection of video game effects recreated in Unity
-- [Unity-Shaders](https://github.com/igradeca/Unity-Shaders) - Unity project about reseach on shaders and particle system
-- [UnitySpecialEffectWithDepth](https://github.com/chenjd/UnitySpecialEffectWithDepth) - RenderDepthMap, ScannerEffect, XrayEffect, ForceFieldEffect
-
+- [API](dev-api-metaverse.metacasinocity.io) 
+- [Socket](dev-socket-metaverse.metacasinocity.io)
+- [Landing Page (FE)](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0189.mga/mga-frontend-demo.git) 
+- [Backend](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0189.mga/mga_java_backend.git)
+- [FE_Admin](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0189.mga/mga_fe_admin.git) 
+- [AI](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0189.mga/ai_mga.git) 
