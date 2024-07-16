@@ -55,24 +55,24 @@ DiscoverFeed Metaverse is a repository dedicated to managing projects focused on
 - **Assets**: 3D assets for the metaverse
 - **World Design (Unity, Unreal Engine)**: World design using Unity and Unreal Engine
 
-### DF Market Place (DFMP)
+### [DF Market Place (DFMP)](https://github.com/discoverfeed/df_mp-df__web_user)
 - **FE-User**: User frontend for the metaverse
 - **FE-Admin**: Admin frontend for the metaverse
 - **Backend**: Backend code for the metaverse
 - **Nodejs-Blockchain**: Node.js blockchain for the metaverse
 - **Smart-Contrast**: Smart contrast feature for the metaverse
 
-### DFWallet (DFW)
+### [DFWallet (DFW)](https://github.com/discoverfeed/Wallet)
 - **FE User**: User frontend for the wallet
 - **FE Admin**: Admin frontend for the wallet
 - **API Blockchain**: Blockchain API for the wallet
 - **Backend**: Backend code for the wallet
 - **Streamer API**: Streaming API for the wallet
 
-### SSO
+### [SSO](https://github.com/discoverfeed/SSO)
 - **Service**: [Single sign-on service for the metaverse](https://github.com/discoverfeed/SSO.git)
 
-### NSB
+### [NSB](https://github.com/discoverfeed/NSB)
 - **Backend**: Backend code for the metaverse
 - **Nodejs Blockchain**: Node.js blockchain for the metaverse
 - **Smart Contrast**: Smart contrast feature for the metaverse
