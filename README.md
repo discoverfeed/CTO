@@ -7,8 +7,9 @@ DiscoverFeed Metaverse is a repository dedicated to managing projects focused on
 ### [DiscoverFeed](https://github.com/discoverfeed/DF)
 - **API**: API-related code for the DiscoverFeed Metaverse project
 - **Socket**: Code related to socket communication in the metaverse
-- **Landing Page (FE)**: Frontend landing page for the metaverse
-- **DJ Anemag Service Site (WP only frontend)**: [Front end of Djanemag.asia](https://github.com/discoverfeed/df_public_html.git)
+- **Landing Page (FE)**: Frontend landing page for the metaverse (https://www.discoverfeed.net/)
+- **Landing Page **: Frontend landing page for [djanemag.asia](https://djanemag.asia/)
+- **DJ Anemag Service Site (WP only frontend)**:(https://github.com/discoverfeed/df_public_html.git)
 - **Backend**: Backend code for the metaverse
 - **FE_Admin**: Admin frontend for the metaverse
 - **AI**: AI-related projects in the metaverse
