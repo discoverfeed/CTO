@@ -70,7 +70,7 @@ DiscoverFeed Metaverse is a repository dedicated to managing projects focused on
 - **Streamer API**: Streaming API for the wallet
 
 ### SSO
-- **Service**: Single sign-on service for the metaverse(https://github.com/discoverfeed/SSO.git)
+- **Service**: [Single sign-on service for the metaverse](https://github.com/discoverfeed/SSO.git)
 
 ### NSB
 - **Backend**: Backend code for the metaverse
