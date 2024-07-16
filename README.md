@@ -28,7 +28,7 @@ A categorized of current MCC Project MTL manages
 - [NSB](#NSB)
     - [Backend](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0162.mcc_nft/mcc-backend.git)
     - [Nodejs Blockchain](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0162.mcc_nft/mcc-node-server.git)
-    - [Smart Contrast](ttps://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0162.mcc_nft/mcc-smart-contract.git)
+    - [Smart Contrast](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0162.mcc_nft/mcc-smart-contract.git)
     - [FE_Admin](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0162.mcc_nft/mcc-web-admin.git)
     - [FE_User](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0162.mcc_nft/mcc-web-user.git)
 
