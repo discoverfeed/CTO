@@ -5,7 +5,7 @@ A categorized of current MCC Project MTL manages
 # Contents
 
 - [MCC](#MCC)
-    - [API](#API)
+    - [API](API)
     - [Socket](#Socket)
     - [Landing Page (FE)](#Landing-Page (FE))
     - [Backend](#Backend)
@@ -32,10 +32,6 @@ A categorized of current MCC Project MTL manages
     - [FE_Admin](#FE_Admin)
     - [FE_User](#FE-User)
 # MCC
-
-## [API](dev-api-metaverse.metacasinocity.io) 
-## [Socket](dev-socket-metaverse.metacasinocity.io)
-
 - [API](dev-api-metaverse.metacasinocity.io) 
 - [Socket](dev-socket-metaverse.metacasinocity.io)
 - [Landing Page (FE)](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0189.mga/mga-frontend-demo.git) 
