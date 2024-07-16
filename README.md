@@ -14,6 +14,7 @@ DiscoverFeed Metaverse is a repository dedicated to managing projects focused on
 - **FE_Admin**: Admin frontend for the metaverse
 - **AI**: AI-related projects in the metaverse
 - **Assets**: 3D assets for the metaverse
+- **Assets**: [3D assets for AddressableAssetsData](https://github.com/discoverfeed/AddressableAssetsData.git)
 - **World Design (Unity, Unreal Engine)**: [World design using Unity and Unreal Engine](https://github.com/discoverfeed/df-unity-master.git)
 - **backend ai**: [AI MGA](https://github.com/discoverfeed/DF_backend_ai.git)
 
