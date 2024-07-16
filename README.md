@@ -33,3 +33,82 @@ A categorized of current MCC Project MTL manages
     - [FE_User](https://gitlab-new.bap.jp/BAPSoftware/outsource/bapsw.s0162.mcc_nft/mcc-web-user.git)
 
 
+
+
+
+20240716
+以下は、`DiscoverFeed Metaverse` のREADMEファイルの英語版です。
+
+---
+
+# DiscoverFeed Metaverse
+
+DiscoverFeed Metaverse is a repository dedicated to managing projects focused on metaverse development.
+
+## Contents
+
+### DiscoverFeed
+- **API**: API-related code for the DiscoverFeed Metaverse project
+- **Socket**: Code related to socket communication in the metaverse
+- **Landing Page (FE)**: Frontend landing page for the metaverse
+- **Backend**: Backend code for the metaverse
+- **FE_Admin**: Admin frontend for the metaverse
+- **AI**: AI-related projects in the metaverse
+
+### DF Market Place (DFMP)
+- **FE-User**: User frontend for the metaverse
+- **FE-Admin**: Admin frontend for the metaverse
+- **Backend**: Backend code for the metaverse
+- **Nodejs-Blockchain**: Node.js blockchain for the metaverse
+- **Smart-Contrast**: Smart contrast feature for the metaverse
+
+### DFWallet (DFW)
+- **FE User**: User frontend for the wallet
+- **FE Admin**: Admin frontend for the wallet
+- **API Blockchain**: Blockchain API for the wallet
+- **Backend**: Backend code for the wallet
+- **Streamer API**: Streaming API for the wallet
+
+### SSO
+- **Service**: Single sign-on service for the metaverse
+
+### NSB
+- **Backend**: Backend code for the metaverse
+- **Nodejs Blockchain**: Node.js blockchain for the metaverse
+- **Smart Contrast**: Smart contrast feature for the metaverse
+- **FE_Admin**: Admin frontend for the metaverse
+- **FE_User**: User frontend for the metaverse
+
+## Overview
+DiscoverFeed Metaverse aims to integrate music clubs from around the world into the metaverse. Users can navigate between the real world and the metaverse. In DF Market Place (DFMP), various utilities, features, and products are available, including original NFTs by DF.
+
+Key features include providing APIs, socket communication, building frontends and backends, and integrating AI. The technology stack includes Node.js, React, Blockchain, and AI technologies, leveraging the latest advancements.
+
+The project is actively being developed, with new features and improvements planned for the future.
+
+## License
+All code and content are licensed under DiscoverFeed.
+
+## Stars
+- **0 stars**: This repository has no stars yet
+
+## Watchers
+- **1 watching**: 1 person is watching this repository
+
+## Forks
+- **0 forks**: This repository has no forks yet
+
+## Report Repository
+Report this repository
+
+## Releases
+- **No releases published**: No releases have been published
+- **Create a new release**: Create a new release
+
+## Packages
+- **No packages published**: No packages have been published
+- **Publish your first package**: Publish your first package
+
+---
+
+This is the revised README file for DiscoverFeed Metaverse focused on metaverse development. Feel free to add or modify information as needed.
