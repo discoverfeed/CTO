@@ -88,27 +88,3 @@ The project is actively being developed, with new features and improvements plan
 
 ## License
 All code and content are licensed under DiscoverFeed.
-
-## Stars
-- **0 stars**: This repository has no stars yet
-
-## Watchers
-- **1 watching**: 1 person is watching this repository
-
-## Forks
-- **0 forks**: This repository has no forks yet
-
-## Report Repository
-Report this repository
-
-## Releases
-- **No releases published**: No releases have been published
-- **Create a new release**: Create a new release
-
-## Packages
-- **No packages published**: No packages have been published
-- **Publish your first package**: Publish your first package
-
----
-
-This is the revised README file for DiscoverFeed Metaverse focused on metaverse development. Feel free to add or modify information as needed.
